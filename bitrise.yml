@@ -1,4 +1,1 @@
-format_version: '13'
-default_step_lib_source: https://github.com/bitrise-io/bitrise-steplib.git
-project_type: other
-workflows: {primary: {steps: [{script: {inputs: [{content: "echo Hello from bitrise-qa-public-demo on branch $BITRISE_GIT_BRANCH"}]}}]}}
+
